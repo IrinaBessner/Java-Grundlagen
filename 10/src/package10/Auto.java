@@ -1,3 +1,5 @@
+package package10;
+
 public class Auto {
     // Instanzvariable (gehört zu jedem Objekt separat)
     private String marke;
