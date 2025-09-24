@@ -12,6 +12,9 @@
       <sourceFolder url="file://$MODULE_DIR$/8_operatoren/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/02/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/OverloadedMethods/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PersonDemo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tag24/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PersonKontrollStrukturen/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
