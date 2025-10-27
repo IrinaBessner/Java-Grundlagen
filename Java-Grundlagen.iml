@@ -17,6 +17,9 @@
       <sourceFolder url="file://$MODULE_DIR$/PersonKontrollStrukturen/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ExpressionsOperatorsPostfixIncrementDecrement" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/System.out.System.ErrPrinter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Einkaufssystem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SwitchBeispiel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01_Programm_MiniBank" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/PersonKontrollStrukturen/out" />
     </content>
     <orderEntry type="inheritedJdk" />
