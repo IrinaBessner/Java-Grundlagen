@@ -32,7 +32,6 @@ public class MiniBank {
 
         boolean laeuft = true;
         while (laeuft) {
-
             System.out.println("=== Minibank Menü ===");
             System.out.println("1 - Geld einzahlen");
             System.out.println("2 - Geld abheben");
@@ -66,7 +65,7 @@ public class MiniBank {
                     break;
 
                 case 3:
-                    System.out.println("Aktueller Kontostand: " + kontostand + " $\n");
+                    System.out.println("Aktueller Kontostand: " + kontostand + " €\n");
                     break;
 
                 case 4:
@@ -79,7 +78,7 @@ public class MiniBank {
                     // for-Schleife -> jedes Jahr Zinsen berecnhen
                     for (int i = 1; i <= jahre; i++) {
                         kapital += kapital * zinssatz / 100;
-                        System.out.printf("Nach Jahr %d: %.2f $\n", i, kapital);
+                        System.out.printf("Nach Jahr %d: %.2f €\n", i, kapital);
                     }
                     System.out.println();
                     break;
@@ -93,8 +92,6 @@ public class MiniBank {
                     System.out.println("Ungültige Eingabe!\n");
             }
         }
-
         scanner.close();
     }
 }
-
