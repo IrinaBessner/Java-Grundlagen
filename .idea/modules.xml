@@ -7,11 +7,16 @@
       <module fileurl="file://$PROJECT_DIR$/10/10.iml" filepath="$PROJECT_DIR$/10/10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Auto/Auto.iml" filepath="$PROJECT_DIR$/Auto/Auto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankAutomatService/BankAutomatService.iml" filepath="$PROJECT_DIR$/BankAutomatService/BankAutomatService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator_Exceptions/Calculator_Exceptions.iml" filepath="$PROJECT_DIR$/Calculator_Exceptions/Calculator_Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/DemoScanner/DemoScanner.iml" filepath="$PROJECT_DIR$/DemoScanner/DemoScanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/Einkaufssystem/Einkaufssystem.iml" filepath="$PROJECT_DIR$/Einkaufssystem/Einkaufssystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExpressionsOperatorsPostfixIncrementDecrement/ExpressionsOperatorsPostfixIncrementDecrement.iml" filepath="$PROJECT_DIR$/ExpressionsOperatorsPostfixIncrementDecrement/ExpressionsOperatorsPostfixIncrementDecrement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fahrzeuge/Fahrzeuge.iml" filepath="$PROJECT_DIR$/Fahrzeuge/Fahrzeuge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSichtbarkeitDemo/JavaSichtbarkeitDemo.iml" filepath="$PROJECT_DIR$/JavaSichtbarkeitDemo/JavaSichtbarkeitDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mathe/Mathe.iml" filepath="$PROJECT_DIR$/Mathe/Mathe.iml" />
       <module fileurl="file://$PROJECT_DIR$/Methoden/Methoden.iml" filepath="$PROJECT_DIR$/Methoden/Methoden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/OverloadedMethods/OverloadedMethods.iml" filepath="$PROJECT_DIR$/OverloadedMethods/OverloadedMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/PersonDemo/PersonDemo.iml" filepath="$PROJECT_DIR$/PersonDemo/PersonDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/PersonKontrollStrukturen/PersonKontrollStrukturen.iml" filepath="$PROJECT_DIR$/PersonKontrollStrukturen/PersonKontrollStrukturen.iml" />
@@ -19,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/SwitchBeispiel/SwitchBeispiel.iml" filepath="$PROJECT_DIR$/SwitchBeispiel/SwitchBeispiel.iml" />
       <module fileurl="file://$PROJECT_DIR$/System.out.System.ErrPrinter/System.out.System.ErrPrinter.iml" filepath="$PROJECT_DIR$/System.out.System.ErrPrinter/System.out.System.ErrPrinter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tiere/Tiere.iml" filepath="$PROJECT_DIR$/Tiere/Tiere.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vehicle/Vehicle.iml" filepath="$PROJECT_DIR$/Vehicle/Vehicle.iml" />
     </modules>
   </component>
 </project>

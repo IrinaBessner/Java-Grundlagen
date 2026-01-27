@@ -1,4 +1,14 @@
-package PACKAGE_NAME;
+public abstract class Tier {
+    protected String name;
 
-public class Tier {
+
+    public Tier(String name) {
+        this.name = name;
+    }
+
+    public abstract void machtGeraeusch();
+
+    public void schlafen() {
+        System.out.println(name + " schläft.");
+    }
 }
