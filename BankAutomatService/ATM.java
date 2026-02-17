@@ -1,4 +1,4 @@
-public class ATM {
+public class ATM implements ATMService {
     private BankAccount account;
 
     public ATM(BankAccount account) {
@@ -6,10 +6,10 @@ public class ATM {
     }
 
     @Override
-    public String withdraw(double amount) throws InsufficientFundsException {
+    public void withdraw(double amount) throws InsufficientFundsException {
         account.withdraw(amount);
         System.out.println("Bitte entnehmen Sie Ihr Geld");
-        return "";
+
     }
 }
 
